@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10mm;
+}
+
+.startbtn {
+    background: rgb(77, 216, 13);
+    border: 2px solid black;
+    border-radius: 8px;
+    height: 60px;
+    width: 200px;
+    font-size: 8mm;
+    font-weight: bold;
+}
